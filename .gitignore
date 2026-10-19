@@ -1,0 +1,15 @@
+# Compiled Java files
+*.class
+/out/
+
+# Queue data created by the app
+/queuesathi-data.csv
+
+# IDE and editor files
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
